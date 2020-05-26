@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"terminal.integrated.fontFamily": "Fira Code",
+		"terminal.integrated.cursorStyle": "line",
+		"terminal.integrated.fontSize": 13,
+		"editor.fontFamily": "Fira Code",
+		"editor.defaultFormatter": "ms-python.python"
+	}
 }
