@@ -9,6 +9,8 @@
 		"terminal.integrated.cursorStyle": "line",
 		"terminal.integrated.fontSize": 13,
 		"editor.fontFamily": "Fira Code",
-		"editor.defaultFormatter": "ms-python.python"
+		"editor.defaultFormatter": "ms-python.python",
+		"editor.fontSize": 13,
+		"editor.fontWeight": "500"
 	}
 }
