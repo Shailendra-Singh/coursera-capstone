@@ -11,8 +11,8 @@ repository_url: "https://github.com/Shailendra-Singh/coursera-capstone/tree/mast
 ---
 
 ### Peer-graded Assignment - Week 1
-* [Introduction](introduction)
-* [Data Description](data-description)
+* [Introduction](/coursera-capstone/the-battle-of-neighborhoods/introduction)
+* [Data Description](/coursera-capstone/the-battle-of-neighborhoods/data-description)
 
 ### Peer-graded Assignment - Week 2
 * Report
