@@ -23,4 +23,6 @@ One way to go about comparison is to compare the activities of mobile users from
 
 The digital footprints collected from LSBNs can help in comparing the preferences and activities of mobile users in New York and Tokyo city, and that can help us visualize how similar or dissimilar they are from one another. We can compare the type of locations (from Foursquare venues) that are frequented and generate comparison charts or clusters on a map to show the differences.
 
-The insights from this can be used in recommendation systems to recommend venues to future users based on historical data. It could also help in deciding where to set up a business by analyzing the correlation between different venue types.
+##### Target Audience
+
+The insights from this can be used by companies working on recommendation systems to recommend venues to their users based on historical data. It could also help a business owner in deciding where to set up a business by analyzing the correlation between different venue types and near to which location their business would be most profitable.
