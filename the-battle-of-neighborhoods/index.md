@@ -9,12 +9,11 @@ is_product_page: "true"
 project_url: /coursera-capstone/the-battle-of-neighborhoods
 repository_url: "https://github.com/Shailendra-Singh/coursera-capstone/tree/master/Projects/Battle%20of%20Neighborhoods"
 ---
-### Report Sections for Assessment
-* [Business Problem](business-problem)
-* [Data](data)
 
-### Full Report
-* Full Report
+### Peer-graded Assignment - Week 1
+* [Introduction](introduction)
+* [Data Description](data-description)
 
-### Notebook
+### Peer-graded Assignment - Week 2
+* Report
 * Notebook
