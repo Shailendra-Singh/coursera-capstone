@@ -27,6 +27,13 @@ It contains two files (NYC and TKY) in tsv format. Each file contains 8 columns,
 7. Timezone offset in minutes (The offset in minutes between when this check-in occurred and the same time in UTC)
 8. UTC time
 
+NYC DataFrame e.g.:
+
+|userId|venueId|venueCategoryId|venueCategory|latitude|longitude|timezoneOffset|checkInUtcTimestamp|
+|:----:|:-----:|:-------------:|:-----------:|:------:|:-------:|:------------:|:----------:|
+|470|49bbd6c0f964a520f4531fe3|4bf58dd8d48988d127951735|Arts & Crafts Store|40.719810|-74.002581|-240|Tue Apr 03 18:00:09 +0000 2012|
+
+
 There are around 2.27m check-ins in New York City and 5.37m check-ins in Tokyo City. In above columns, the semantic meaning of a check-in can be found from 'Venue Category Name' (from Foursquare - Endpoint: '/venues/categories' ) column.
 
 ### References 
