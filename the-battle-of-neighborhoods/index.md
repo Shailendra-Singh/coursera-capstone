@@ -6,7 +6,14 @@ permalink: the-battle-of-neighborhoods
 show_home: "true"
 show_project_home: "true"
 is_product_page: "true"
-project_url: the-battle-of-neighborhoods
+project_url: /coursera-capstone/the-battle-of-neighborhoods
 repository_url: "https://github.com/Shailendra-Singh/coursera-capstone/tree/master/Projects/Battle%20of%20Neighborhoods"
 ---
-## Hii
+
+### Peer-graded Assignment - Week 1
+* [Introduction](introduction)
+* [Data Description](data-description)
+
+### Peer-graded Assignment - Week 2
+* Report
+* Notebook
